@@ -1,0 +1,1 @@
+LGTM. The code works, the tests pass, and none of us will ever know why. Merging before the silence gets any louder.
